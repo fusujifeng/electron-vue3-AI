@@ -29,14 +29,20 @@
     "@electron/fuses": "^1.8.0",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
+    "@vitejs/plugin-vue": "^5.2.1",
     "electron": "35.0.1",
     "eslint": "^8.57.1",
     "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-vue": "^9.19.2",
     "ts-node": "^10.9.2",
     "typescript": "~4.5.4",
-    "vite": "^5.4.14"
+    "vite": "^5.4.14",
+    "vue-eslint-parser": "^10.1.1"
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.1"
+    "axios": "^1.8.2",
+    "electron-squirrel-startup": "^1.0.1",
+    "vite-plugin-eslint": "^1.8.1",
+    "vue": "^3.5.13"
   }
 }
